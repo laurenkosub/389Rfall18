@@ -6,7 +6,7 @@ Section: 0102
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examination.
 
-Digital acknowledgement of honor pledge: *PUT YOUR NAME HERE*
+Digital acknowledgement of honor pledge: Lauren Kosub
 
 ## Assignment 2 writeup
 
