@@ -31,7 +31,13 @@ Digital acknowledgement of honor pledge: Lauren Kosub
 
 7. Ubuntu -> found on https://censys.io/ipv4/142.93.118.186
 
-8. CMSC389R-{y0u_found_th3_g1t_repo} -> .git/COMMIT_EDITMSG (got here using nmap on 142.93.118.186)
+8.  CMSC389R-{y0u_found_th3_g1t_repo} -> .git/COMMIT_EDITMSG (got here using nmap on 142.93.118.186)
+    CMSC389R-{c0rn3rstone-air-27670} -> after getting into the system with the 
+        username and password, I found the /home/flight_records directory that 
+        is full of files with flags in them. From OSINT, I found Fred's instagram, 
+        and after a few pokemon photots I found three pictures that when put 
+        together compromised this flight ticket from his bad malaysian flight 
+        experience (which he tweeted about)
 
 ### Part 2 (55 pts)
 
