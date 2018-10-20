@@ -24,7 +24,8 @@ Digital acknowledgement of honor pledge: Lauren Kosub
 
 5. 539.5 m Above Sea Level
 
-6. CMSC389R-{look_I_f0und_a_string} -> found using strings -n 15 image
+6. CMSC389R-{look_I_f0und_a_string} 
+   CMSC389R-{abr@cadabra}
 
 ### Part 2 (55 pts)
 
